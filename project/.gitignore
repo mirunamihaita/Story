@@ -1,0 +1,5 @@
+# contains passwords
+secrets.txt
+
+.DS_Store
+.idea
